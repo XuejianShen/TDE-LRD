@@ -1,0 +1,14 @@
+Theory of TDE
+classic: https://ui.adsabs.harvard.edu/abs/2004ApJ...600..149W/abstract
+a more recent one: https://ui.adsabs.harvard.edu/abs/2016MNRAS.455..859S/abstract
+
+Obs of LRDs
+Tip of the iceberg:  https://ui.adsabs.harvard.edu/abs/2025ApJ...981...19L/abstract
+LRD general: 
+	- origin of the name: https://ui.adsabs.harvard.edu/abs/2024ApJ...963..129M/abstract
+	- https://ui.adsabs.harvard.edu/abs/2025ApJ...991...37A/abstract
+	- https://ui.adsabs.harvard.edu/abs/2025arXiv250316596N/abstract
+	- https://ui.adsabs.harvard.edu/abs/2025ApJ...986..126K/abstract
+
+The previous attempt for TDE rate in LRDs:
+https://ui.adsabs.harvard.edu/abs/2024ApJ...966..164I/abstract
